@@ -18,6 +18,7 @@
     <ClCompile Include="src\Utilities\trim.cpp">
       <Filter>Utilities</Filter>
     </ClCompile>
+    <ClCompile Include="src\CustomTheater.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Ext">
@@ -45,5 +46,6 @@
     </ClInclude>
     <ClInclude Include="src\Debug.h" />
     <ClInclude Include="src\Phobos.h" />
+    <ClInclude Include="src\CustomTheater.h" />
   </ItemGroup>
 </Project>

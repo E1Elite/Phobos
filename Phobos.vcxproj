@@ -11,6 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\CustomTheater.cpp" />
     <ClCompile Include="src\Debug.cpp" />
     <ClCompile Include="src\Ext\Warhead\Body.cpp" />
     <ClCompile Include="src\Ext\Warhead\Hooks.cpp" />
@@ -22,6 +23,7 @@
     <ClCompile Include="src\Utilities\trim.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\CustomTheater.h" />
     <ClInclude Include="src\Debug.h" />
     <ClInclude Include="src\Ext\Warhead\Body.h" />
     <ClInclude Include="src\Ext\Warhead\Serialize.hpp" />
